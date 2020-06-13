@@ -1,4 +1,4 @@
-cask 'blender' do
+cask 'blender@2.82a' do
   version '2.82a'
   sha256 '17fde8bffa655e65bcc116d68c0afb58489d7694b1b66246a7a6f10ffadf1ca9'
 
